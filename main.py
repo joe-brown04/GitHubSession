@@ -1,0 +1,2 @@
+var=('tester')
+print(var)
